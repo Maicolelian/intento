@@ -39,3 +39,9 @@ body {
 #post {
     padding: 1em;
 }
+#footer {
+    background: rgb(43, 44, 49);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
