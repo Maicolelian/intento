@@ -39,6 +39,10 @@ body {
 #post {
     padding: 1em;
 }
+#post #imagen {
+    width: 220px;
+    vertical-align: middle;
+}
 #footer {
     background: rgb(43, 44, 49);
     color: white;
